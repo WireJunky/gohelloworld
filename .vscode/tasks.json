@@ -6,12 +6,7 @@
     "echoCommand": true ,
     "tasks": [
         {
-            "taskName": "build",
-            "args": [
-                "-x",
-                "-o",
-                "${workspaceRoot}/dist/helloworld"
-            ],
+            "taskName": "install",
             "isBuildCommand": true
         }
     ]
